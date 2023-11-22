@@ -1,0 +1,5 @@
+Computer Name: LaptopHannes
+Date of Test: 2023-11-22 10:26:13
+Bubble Sort Time: 8.913425 seconds
+Quick Sort Time: 0.024050 seconds
+
