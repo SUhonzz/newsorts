@@ -1,0 +1,5 @@
+Computer Name: Andreas-PC
+Date of Test: 2023-11-22 10:26:22
+Bubble Sort Time: 5.577224 seconds
+Quick Sort Time: 0.010069 seconds
+
