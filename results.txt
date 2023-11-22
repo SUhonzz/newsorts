@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Computer Name: Andreas-PC
 Date of Test: 2023-11-22 10:26:22
 Bubble Sort Time: 5.577224 seconds
 Quick Sort Time: 0.010069 seconds
+=======
+Computer Name: LaptopHannes
+Date of Test: 2023-11-22 10:26:13
+Bubble Sort Time: 8.913425 seconds
+Quick Sort Time: 0.024050 seconds
+>>>>>>> 0ddb39fb91f7fe74b903071505db4532252fa3e4
 
